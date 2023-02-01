@@ -1,0 +1,19 @@
+.App{
+  width: 50%;
+  display: flex;
+  align-self: center;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+
+.img_left{
+  border-radius: 1000px;
+  width: 200px;
+  height: 200px;
+}
+#right_column{
+  margin-left: 5%;
+}
+h1{
+  margin-top: 0;
+}
